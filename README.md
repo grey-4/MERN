@@ -1,2 +1,2 @@
 # MERN
-created for mern internship and it will used until the end of the program
+created for mern internship and it will be used until the end of the program for learning purposes
